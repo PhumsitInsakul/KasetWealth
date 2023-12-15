@@ -1,0 +1,39 @@
+xxxxxxxxxxxx    กรณี 1     xxxxxxxxxxxxxxxx
+firebase
+1.1 signUp
+1.2 Login
+1.3 forget password 
+1.4 pin (option)
+------------------------------------------
+1. เกจ page = สรุป1 + สรุป2
+
+2. ใส่รายรับ-รายจ่าย page + สรุป1
+
+
+3. ใส่ทรัพย์สิน-หนี้สิน page + สรุป2
+
+
+3. Chatbot page [pop-up ลอยๆ (option)]
+
+4. Gamify page
+
+
+xxxxxxxxxxxx    กรณี 2     xxxxxxxxxxxxxxxx
+firebase
+1.1 signUp
+1.2 Login
+1.3 forget password 
+1.4 pin (option)
+------------------------------------------
+1. เกจ page = สรุป1 + สรุป2
+
+2. ใส่รายรับ-รายจ่าย page + สรุป1
+
+
+3. ใส่ทรัพย์สิน-หนี้สิน page + สรุป2
+
+
+4. --- หน้า profie
+  --- Chatbot page [pop-up ลอยๆ (option)]
+  --- Gamify page
+          ---  ตั้งเป้าหมาย 
